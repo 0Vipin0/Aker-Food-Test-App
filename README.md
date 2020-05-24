@@ -1,16 +1,10 @@
-# flutterakerapp
+# Flutter Aker App
 
-A new Flutter application for Aker Food Tech
+A new Flutter application for Aker Food Tech.
 
-## Getting Started
+## Project Details
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Login with email and password.
+2. Map on the Landing Page which will shows the users current location and. 
+3. On long press anywhere on Map, user can select other location, after that he can click top floating action button to get the distance from the current location.
+4. Bottom floating action button will take the user to the graph screen, where the API is integrated with the user can select different region with different parameter and the graph will be displayed.
